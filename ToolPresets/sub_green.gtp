@@ -1,0 +1,28 @@
+# GIMP tool preset file
+
+(icon-name "gimp-tool-paintbrush")
+(icon-pixbuf "iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAABHNCSVQICAgIfAhkiAAABCRJREFUaIHVWrtO7EgQPf30PJAWERFsAtFKgEb8302QNoXv4TcQEtqAcBMCBBKDx+5H9Q081fh6ZxiDtHfsI1medvtx+lWnqqbF2dlZOj8/x3Q6RVmW0FpDCAHnHIQQsNYixgjvPay1EEJAKYW6rhFjhLUWRISUEqSUMMYAAEII+R3ee2itobVGjBFKKaSUkFLKzwLIZwCQUkJKiRACYowQQkBKiZQSJpMJlsslHh4eoC8uLnB1dYXDw0PUdY2qqjCdThFCQF3X0Fpnwky+KIpMsCgKKKVQliUAQGsNay2cc1itVgghIIQArTVSSvDeQ0oJrXXuBCEEiAjOORBRboC1Ft57lGUJIoIxJnfq09MTrq+voUMIICLc3t7i8fERdV2DiKCUQlVV+WPe+9xbRVHAe48YI4wxMMYgxogQAlJKmWwIId+nlEKMMY+K1hqr1QopJQghIIRAXdf5HUopGGMQQkBVVXDOIaUEay2Ojo5wcnKC19dXaB6au7s73NzcYAxYLBZYLBaw1kLyXBNC7JtXb2it85SVTDzGuE9OX4IQAjHGxnC0C2MBW6YYIyQvtBDCvnn1Bq9bIQSkUgoARjUCPO2FEM0IOOdGtwZYkyTbZufcvnl9C5LleayQxhjM5/Psw4wJKSVIrTVmsxlms9m++fQGO4IAINnHGRPYJyMiaHbCtlqhv34vuf/gn82XeQQ0C8KnC/nP/4FYH/y7+XJbyHRKKQcsn+LvbxDwACKAyTee/bG9isnnBpRliaqqdr/0jzUhXjKxU6Yt9eW6rADI9Rmt37JTz/f3gAa+4EYwubilTBvqRYvwpgbIDfU70LZCuh/zNZZbrnMoodYHS0q5LhddBuszj9CO2dvFL1aIlXjnKHwyJ383pJQgomYNcCzwqRZssQb7AhF9xN8cGGzVgS12eJ/ghEGMsYkHdo7AwEBE8N43I7AzmB+wEqeUelqhgSlxG/3N6ICUuI2v6cBQlRjoqcYDUeJfGsB5oV5B/UCUWCmV00C6d15oQEoMtOIBdqU/HYGBKXEbGmjyoluFbIBK3OYriQhENKrEVtsblUx+TK4EkyeiJjO3XC5Hl9zlv6qkUgp8jAXsB6WUxt0AImoSW865UU0h4CO1Ijm62ZlWGSik1o07JOUXnZCBQLL9t9bumUp/KKWydknnHLz3eHt72zev3uAknJSymUIvLy+jErKiKGCMaUJK7z3m8zkmkwkuLy+zwgEfisd5yPaGi3YuKdvk9Z/m7U0cbfO8rZPasQgnmru5qnYuyBiD5+dnAIBerVa4v7/H6elp3o3CeyB4owbvf+CdLPxRrmPySqlMgBvQJtL2t7od0G1MtwHMSwiBsixzPlccHx+ng4OD/EC3l9sP8sEf6P7uPss9tqmn26PR7Wkud+/h0eS0yvv7O34Cm0RcxFXLBnQAAAAASUVORK5CYII=")
+(name "12")
+(tool-options "GimpPaintOptions"
+    (tool "gimp-paintbrush-tool")
+    (foreground (color-rgb 0 0.55000000000000004 0))
+    (background (color-rgb 0 0 0))
+    (opacity 0.050000000000000003)
+    (paint-mode grain-merge-legacy)
+    (brush "2. Hardness 100")
+    (dynamics "Track Direction")
+    (gradient "Custom")
+    (palette "Color History")
+    (brush-size 26)
+    (dynamics-enabled no))
+(use-fg-bg yes)
+(use-opacity-paint-mode yes)
+(use-brush no)
+(use-dynamics no)
+(use-mypaint-brush no)
+(use-gradient no)
+(use-pattern no)
+(use-palette no)
+(use-font no)
+
+# end of GIMP tool preset file

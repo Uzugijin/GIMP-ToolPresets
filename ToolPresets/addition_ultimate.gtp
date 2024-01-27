@@ -1,0 +1,27 @@
+# GIMP tool preset file
+
+(icon-name "gimp-tool-paintbrush")
+(icon-pixbuf "iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAABHNCSVQICAgIfAhkiAAAApRJREFUaIHtmrFu4kAQhn/PQkNnF65cI9prriY6pJNOl3fgEeDSUaQAKV0kJL8A75DqKlLQUF3LA9DyBllzBV6zsbA9azwJ1t0nRdh4d3b/nZ3dHQdvPMQROVav+W8uMx7yyknZ6/V66ADAt69h9vBhBYThhVo5nse8xiTtBUFwEgAAP4d93D8B/X61kZcZrzEpe9vtFr7vA8BZwP0TsNlsWIb8H7wGubja63a72TUBJ7e0FeIG2K1Cn92Ba/kv4DNZz1sswOwbndJSFqPRqPDZfr8vfBZFUa16u92u8Nn3L+fr1nrAwPZAXexRLvNGXTIBL7Nmd9h8Z8umyzUQwD9IuRLHMZbLpYzxFOIeYeugtUaSJHINQDiIkySB1lqyCX4QuyyVpmzeA3kbZUFdtozaiK5C0lPo7vEDppCUAJMCtDIGfv85XzcyhYrio2oKXarnutnVEsBtxPYAp06dze5dTuxCHMfZCGuts2tzf/7+DbPZDEopEFH6qaAUZfeKFKa/ps6dzwQ8rKrfHpgRzC+RpvM6SZDkRGj9Bs9LO60IihRIKSiyOp8KM7h6obN65b23yTOZTCrLmJFfLBbuDTCpFQOcUYqiKJ0exK5TB2cBl4KxqHOnea4K6zYhSnQfIFLvBDTNei58lDgFrswYmRRA1AOKTqtM09g5sehp1A7iSzZu/jRq1n9JMuvcV9xOxolAnqyADiCXE0+n9Y4HLnSkcmKpjSuPSAzYwSkt5N95M1e2rHGXvKbqGURy4mP6V3FzNR+SE0vReE5s4/FuGqOVHrDJBLjmxLdC6/9P7AE4hmEIIsLhcCgsaB9hy7ADrIxr7fm+jyAIzgLKcPkhBoem7GUCBoNBYaH1nNfY3SOvXNP2/gKRXhSsopotJwAAAABJRU5ErkJggg==")
+(name "63")
+(tool-options "GimpPaintOptions"
+    (tool "gimp-paintbrush-tool")
+    (foreground (color-rgb 0.10000000000000001 0 0))
+    (background (color-rgb 0 0 0))
+    (paint-mode addition)
+    (brush "2. Hardness 100")
+    (dynamics "Dynamics Random")
+    (gradient "Custom")
+    (palette "Color History")
+    (brush-size 26)
+    (dynamics-enabled no))
+(use-fg-bg no)
+(use-opacity-paint-mode yes)
+(use-brush no)
+(use-dynamics no)
+(use-mypaint-brush no)
+(use-gradient no)
+(use-pattern no)
+(use-palette no)
+(use-font no)
+
+# end of GIMP tool preset file

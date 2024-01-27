@@ -1,0 +1,27 @@
+# GIMP tool preset file
+
+(icon-name "gimp-tool-pencil")
+(icon-pixbuf "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")
+(name "72")
+(tool-options "GimpPencilOptions"
+    (tool "gimp-pencil-tool")
+    (brush "1. Pixel")
+    (dynamics "Basic Dynamics")
+    (gradient "Standard")
+    (palette "colorbending")
+    (brush-size 1)
+    (brush-spacing 0.20000000000000001)
+    (jitter-amount 7.79)
+    (dynamics-enabled no)
+    (fade-unit percent))
+(use-fg-bg yes)
+(use-opacity-paint-mode yes)
+(use-brush yes)
+(use-dynamics no)
+(use-mypaint-brush no)
+(use-gradient no)
+(use-pattern no)
+(use-palette no)
+(use-font no)
+
+# end of GIMP tool preset file
