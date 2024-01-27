@@ -1,0 +1,28 @@
+# GIMP tool preset file
+
+(icon-name "gimp-tool-paintbrush")
+(icon-pixbuf "iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAABHNCSVQICAgIfAhkiAAABJJJREFUaIHVWjtP40AQ/nb24TyQ7kRFcQ1UJwGK+H/XIF0Lv4e/gZDQFZTXUCCQSJx4n1eY2RgL8uBsUD7Jih3buzM7uzPfjFccHx+nk5MTDIdDlGUJpRSEELDWQggBYwxCCHDOwRgDIQSklKiqCiEEGGMQY0RKCUQErTUAwHuf23DOQSkFpRRCCJBSIqWElFJ+F0D+BQAiAhHBe48QAoQQICKklDAYDDCdTnF7ewt1enqK8/NzfP/+HVVVYbFYYDgcwnuPqqqglMoCs/BFUWQBi6KAlBJlWQIAlFIwxsBai/l8Du89vPdQSiGlBOcciAhKqTwIQgjEGGGtRYwxK2CMgXMOZVkixgitdR7U+/t7XFxcQHnvEWPE1dUV7u7uUFUVYoyQUmKxWOTOnHN5tIqigHMOIQRoraG1RggB3nuklLKw3vv8nJQSIYRsFaUU5vM5UkoQQkAIgaqqchtSSmit4b3HYrGAtRYpJRhjsL+/j8PDQzw9PUGxaa6vr3F5eYldwGQywWQygTEGxHNNCPHVcm0MpVSessSChxC+UqatIIRACKF2HM2LXQF7phACiBea9/6r5doYvG6FEFBSSgDozAI/f66+/+fP//fB014IUbtRa22na+DHj7f///u3m/bZ7Uopodg3W2u7af0Fv3+/vv71q9PmM4jD866CtNYYj8eZw3SJvT1gNOq82YyUEkgphdFohFEPPcUI9BFemAgCADHH2SUwJ4sxgpiE9RGJQ6it0AfYAooDQh8LuS8FmoGMUko5YekaMfajAAufFSjLEovFovuePgEEdEcj2vgML6TWPbyO26wCr4EXuvWh9t7iTk0vpDgSr7LCe9xmHdgCHCO3bec97kREiDHWZI5zgXWxoM1ttsW276/iTjHGZf7NicEmceDbt9euMYTX1zzi7fsv2R+kBIiWU4rPiZb3JQGzcrUcXDAIIdT5wCYWYIGaCzMEIEQghqUC7ftCNAR+EZBeriW9VqipzCrEGOGcqy2wTTI/nb79PzchZX3wnC/L+rooWi+kpYIhAB8JQbxu13ohxrZ8/rPygY0U2DaTYm/Dc/qj7WyCtQpsm8M2/fxbc7qLnLiJ3Hwf0Zhos0X5X31wXWiXCltSylwG6rUuRPI1jegSOSNjKt2HBST1pwCDgLou2kda2fZCXaEpL8UYEWPcqTXwio2y8H1ZgHqYQix8Tuqn02k/i5gA6uGzA393I6KazPHRNWazzpsEsORBKaX+FOiL+wBLBWKMUM45WGs7nUJ9cJ42uLSiOLvpqqzSNddZB1Kq5nPUN2npCcT+3xjzxaJsDilljl1krYVzDs/Pz18t18bgIhwR1VPo8fFxpyrURVFAa127UeccxuMxBoMBzs7OcoQDlhGP65DNDRfNWhKf80fz5iaOpnt+b5CauQgXmtu1qmYtSGuNh4cHAICaz+e4ubnB0dFR3o3CeyB4owbvf+CdLNwp32PhpZRZAFagKUiTb7UHoK1MWwGWSwiBsixzPVccHBykvb29/EJ7lJsv8sEdtM/b7/KIvTXSTWu0R5qv28+wNbmsMpvN8A8TbIf3QUtDmAAAAABJRU5ErkJggg==")
+(name "23")
+(tool-options "GimpPaintOptions"
+    (tool "gimp-paintbrush-tool")
+    (foreground (color-rgb 0.10000000000000001 0.10000000000000001 0))
+    (background (color-rgb 0 0 0))
+    (opacity 0.20000000000000001)
+    (paint-mode addition-legacy)
+    (brush "2. Hardness 100")
+    (dynamics "Dynamics Random")
+    (gradient "Dark 1")
+    (palette "Color History")
+    (brush-size 26)
+    (dynamics-enabled no))
+(use-fg-bg yes)
+(use-opacity-paint-mode yes)
+(use-brush no)
+(use-dynamics no)
+(use-mypaint-brush no)
+(use-gradient no)
+(use-pattern no)
+(use-palette no)
+(use-font no)
+
+# end of GIMP tool preset file
