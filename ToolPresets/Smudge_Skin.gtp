@@ -1,0 +1,32 @@
+# GIMP tool preset file
+
+(icon-name "gimp-tool-smudge")
+(icon-pixbuf "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")
+(name "83")
+(tool-options "GimpSmudgeOptions"
+    (tool "gimp-smudge-tool")
+    (foreground (color-rgb 0.10000000000000001 0 0))
+    (background (color-rgb 0 0 0))
+    (brush "2. Hardness 100")
+    (dynamics "Basic Simple")
+    (gradient "FG to BG (RGB)")
+    (palette "Color History")
+    (brush-size 26)
+    (brush-spacing 0.01)
+    (brush-force 1)
+    (use-jitter yes)
+    (jitter-amount 0.50000000000000022)
+    (dynamics-enabled no)
+    (fade-length 1)
+    (no-erasing yes))
+(use-fg-bg no)
+(use-opacity-paint-mode yes)
+(use-brush yes)
+(use-dynamics yes)
+(use-mypaint-brush no)
+(use-gradient no)
+(use-pattern no)
+(use-palette no)
+(use-font no)
+
+# end of GIMP tool preset file
